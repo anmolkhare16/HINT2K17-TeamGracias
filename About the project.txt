@@ -1,0 +1,10 @@
+This project explains two application of Virtual Reality:
+
+(1) Medical: In medical this can be used to control/calibrate the sergeries done through robotics. When a person wears this glove, he/she can feel things in empty space; consider a sergery done on leg. A doctor wearing this glove can feel the leg virtually, while the robot operates on the real one!
+
+Whenever will the doctor reach a delicate part of the leg while operating (for ex: bone), this glove will lock its state and notify the doctor.
+
+(2) Gaming:
+In gaming, we'll be making a simple game for shooting (like Counter Strike), also we'll be making a head gear with viration motors. The part of head on which the person shoots, the opponent will feel a vibration on that part. (Head Shot)
+
+** This application will also be used for head muscle relaxation. The person wearing this gear and having the app will select a part of his head on app, the motor along that part will vibrate, relaxing the muscles. Also the intensity of vibrations will be controlled.
